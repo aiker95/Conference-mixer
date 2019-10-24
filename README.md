@@ -3,8 +3,8 @@
 Лучшие показатели можно плучить рандомом или методами самообучение.
 
 
-#Задача: <br>
-#Conference mixer<br>
+Задача: <br>
+Conference mixer<br>
 
 We are planning a conference with 100 attendees. One of the intended goals is to let people get to meet and know each other. To facilitate<br> the process we will predefine seats at our breakfast and lunch tables. The idea is to design the seating charts in such a way that each<br> participant will be seated with as many others as possible during the course of the conference. <br>
 So:<br>
